@@ -1,0 +1,9 @@
+E:\dowload\lap trinh web\Social site\Social site\bin\Social site.dll.config
+E:\dowload\lap trinh web\Social site\Social site\bin\Social site.dll
+E:\dowload\lap trinh web\Social site\Social site\bin\Social site.pdb
+E:\dowload\lap trinh web\Social site\Social site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\dowload\lap trinh web\Social site\Social site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\dowload\lap trinh web\Social site\Social site\obj\Debug\Social site.csprojResolveAssemblyReference.cache
+E:\dowload\lap trinh web\Social site\Social site\obj\Debug\Social site.csproj.CoreCompileInputs.cache
+E:\dowload\lap trinh web\Social site\Social site\obj\Debug\Social site.dll
+E:\dowload\lap trinh web\Social site\Social site\obj\Debug\Social site.pdb

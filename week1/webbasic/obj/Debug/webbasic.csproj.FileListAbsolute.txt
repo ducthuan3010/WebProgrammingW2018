@@ -1,0 +1,9 @@
+C:\Users\nguye\source\repos\webbasic\webbasic\bin\webbasic.dll.config
+C:\Users\nguye\source\repos\webbasic\webbasic\bin\webbasic.dll
+C:\Users\nguye\source\repos\webbasic\webbasic\bin\webbasic.pdb
+C:\Users\nguye\source\repos\webbasic\webbasic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\source\repos\webbasic\webbasic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\source\repos\webbasic\webbasic\obj\Debug\webbasic.csprojResolveAssemblyReference.cache
+C:\Users\nguye\source\repos\webbasic\webbasic\obj\Debug\webbasic.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\webbasic\webbasic\obj\Debug\webbasic.dll
+C:\Users\nguye\source\repos\webbasic\webbasic\obj\Debug\webbasic.pdb

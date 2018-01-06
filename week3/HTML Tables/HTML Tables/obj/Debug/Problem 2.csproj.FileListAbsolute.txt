@@ -1,0 +1,9 @@
+C:\Users\nguye\source\repos\HTML Tables\HTML Tables\bin\HTML Tables.dll.config
+C:\Users\nguye\source\repos\HTML Tables\HTML Tables\bin\HTML Tables.dll
+C:\Users\nguye\source\repos\HTML Tables\HTML Tables\bin\HTML Tables.pdb
+C:\Users\nguye\source\repos\HTML Tables\HTML Tables\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\source\repos\HTML Tables\HTML Tables\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\source\repos\HTML Tables\HTML Tables\obj\Debug\Problem 2.csprojResolveAssemblyReference.cache
+C:\Users\nguye\source\repos\HTML Tables\HTML Tables\obj\Debug\Problem 2.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\HTML Tables\HTML Tables\obj\Debug\HTML Tables.dll
+C:\Users\nguye\source\repos\HTML Tables\HTML Tables\obj\Debug\HTML Tables.pdb

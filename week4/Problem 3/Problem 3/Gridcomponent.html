@@ -1,0 +1,169 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <form>
+        <table border="1" style="border-collapse:collapse; border-radius:10px">
+            <tr>
+                <td colspan="6" style="background-color:lightgrey">Drag a column header and drop it here to group by that column</td>
+            </tr>
+            <tr style="background-color:lightgrey">
+                <td style="text-align:center;width:90px">ProductID</td>
+                <td style="padding-left:8px">Product name</td>
+                <td style="padding-left:8px">Unit price</td>
+                <td style="padding-left:8px">Quantity per unit</td>
+                <td style="padding-left:8px">Units in stock</td>
+                <td style="padding-left:8px">Discontinued</td>
+            </tr>
+            <tr>
+                <td style="width:70px;padding-left:10px"><input type="text" name="productid" style="width:30px" /></td>
+                <td style="width:230px; padding-left:8px"><input type="text" name="productname" style="width:130px" /></td>
+                <td style="width:173px;padding-left:8px">
+                    <table>
+                        <tr>
+                            <td><input type="text" name="unitprice" style="width:100px" /></td>
+                            <td><input type="image" src="den.PNG" /></td>
+                        </tr>
+                    </table>
+                </td>
+                <td style="width: 170px;padding-left:8px"><input type="text" name="quantity" style="width:130px" /></td>
+                <td style="width:173px; padding-left:8px">
+                    <table>
+                        <tr>
+                            <td><input type="text" name="stock" style="width:100px" /></td>
+                            <td><input type="image" src="den.PNG" /></td>
+                        </tr>
+                    </table>
+                </td>
+                <td style="padding-left:8px">
+                    <table>
+                        <tr>
+                            <td><input type="checkbox" name="discontinued" /></td>
+                            <td><input type="image" src="den.PNG" /></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding-left:8px">1</td>
+                <td style="padding-left:8px">Chai</td>
+                <td style="padding-left:8px">$18.00</td>
+                <td style="padding-left:8px">10 boxes x 20 bags</td>
+                <td style="padding-left:8px">39</td>
+                <td style="padding-left:11px"><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td style="padding-left:8px">2</td>
+                <td style="padding-left:8px">Chang</td>
+                <td style="padding-left:8px">$19.00</td>
+                <td style="padding-left:8px">24 - 12 oz bottles</td>
+                <td style="padding-left:8px">17</td>
+                <td style="padding-left:11px"><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td style="padding-left:8px">3</td>
+                <td style="padding-left:8px">Aniseed Syrup</td>
+                <td style="padding-left:8px">$10.00</td>
+                <td style="padding-left:8px">12 - 500 ml bottles</td>
+                <td style="padding-left:8px">13</td>
+                <td style="padding-left:11px"><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td style="padding-left:8px">4</td>
+                <td style="padding-left:8px">Chef Anton's Cajun Seasoning</td>
+                <td style="padding-left:8px">$22.00</td>
+                <td style="padding-left:8px">48 - 6 oz jars</td>
+                <td style="padding-left:8px">53</td>
+                <td style="padding-left:11px"><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td style="padding-left:8px">5</td>
+                <td style="padding-left:8px">Chef Anton's Gumbo Mix</td>
+                <td style="padding-left:8px">$21.35</td>
+                <td style="padding-left:8px">36 boxes</td>
+                <td style="padding-left:8px">0</td>
+                <td style="padding-left:11px"><input type="checkbox" checked /></td>
+            </tr>
+            <tr>
+                <td style="padding-left:8px">6</td>
+                <td style="padding-left:8px">Grandma's Boysenberry Spread</td>
+                <td style="padding-left:8px">$25.00</td>
+                <td style="padding-left:8px">12 - 8 oz jars</td>
+                <td style="padding-left:8px">120</td>
+                <td style="padding-left:11px"><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td style="padding-left:8px">7</td>
+                <td style="padding-left:8px">Uncle Bob's Organic Dried Pears</td>
+                <td style="padding-left:8px">$30.00</td>
+                <td style="padding-left:8px">12 - 1 lb pkgs.</td>
+                <td style="padding-left:8px">15</td>
+                <td style="padding-left:11px"><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td style="padding-left:8px">8</td>
+                <td style="padding-left:8px">Northwoods Cranberry Sauce</td>
+                <td style="padding-left:8px">$40.00</td>
+                <td style="padding-left:8px">12 - 12 oz jars</td>
+                <td style="padding-left:8px">6</td>
+                <td style="padding-left:11px"><input type="checkbox" /></td>
+            </tr>
+            <tr>
+                <td style="padding-left:8px">9</td>
+                <td style="padding-left:8px">Mishi Kobe Niku</td>
+                <td style="padding-left:8px">$97.00</td>
+                <td style="padding-left:8px">18 - 500 g pkgs.</td>
+                <td style="padding-left:8px">29</td>
+                <td style="padding-left:11px"><input type="checkbox" checked /></td>
+            </tr>
+            <tr>
+                <td style="padding-left:8px">10</td>
+                <td style="padding-left:8px">Ikura</td>
+                <td style="padding-left:8px">$31.00</td>
+                <td style="padding-left:8px">12 - 200 ml jars</td>
+                <td style="padding-left:8px">31</td>
+                <td style="padding-left:11px"><input type="checkbox" /></td>
+            </tr>
+            <tr style="background-color:lightgrey">
+                <td colspan="6">
+                    <table style="width:100%">
+                        <tr>
+                            <td style="text-align:left">
+                                <input type="image" src="back.PNG" />
+                                <input type="image" src="previous.PNG" />
+                            </td>
+                            <td style="border:1px solid red; text-align:left">1</td>
+                            <td style="text-align:left; width:200px"> 2 3 4 5 6 7 8 9 10&ensp;...</td>
+                            <td style="text-align:left">
+                                <input type="image" src="next.PNG" />
+                                <input type="image" src="nextto.PNG" /> &ensp;
+                            </td>
+                            <td style="text-align:left">Page size:</td>
+                            <td style="text-align:left">
+                                <select>
+                                    <option>10</option>
+                                    <option>9</option>
+                                    <option>8</option>
+                                    <option>7</option>
+                                    <option>6</option>
+                                    <option>5</option>
+                                    <option>4</option>
+                                    <option>3</option>
+                                    <option>2</option>
+                                    <option>1</option>
+                                </select>
+                            </td>
+                            <td style="text-align:right">335104 items in 33511</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+    </form>
+</body>
+</html>

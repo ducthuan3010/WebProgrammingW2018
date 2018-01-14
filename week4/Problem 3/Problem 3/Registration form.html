@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Sample Form</title>
+
+</head>
+<body style="margin-right: 490px;">
+    <form style="width:400px">
+        <table border="1" style="border-collapse:collapse">
+            <tr>
+                <th   style="text-align:right; width:150px">Last Name</th>
+                <td colspan="3" style="padding-left:2px"><input type="text" name="lastname" value="Nakov" style="width:85%" /></td>
+            </tr>
+            <tr>
+                <th style="text-align:right">First Name</th>
+                <td colspan="3" style="padding-left:2px"><input type="text" name="firstname" value="Svetlin" style="width:85%" /></td>
+            </tr>
+            <tr>
+                <th style="text-align:right">Address</th>
+                <td colspan="3" style="padding-left:2px">
+                    <textarea name="address" rows="4" cols="30" >17 Hristo Botev Str.
+floor 3, apt. 12</textarea>
+                </td>
+            </tr>
+            <tr>
+                <th style="text-align:right">City</th>
+                <td style="width:150px; text-align:center"><input type="text" name="city" value="Kaspichan" /></td>
+                <th style="width:50px">State</th>
+                <td style="width:50px; text-align:center"><input type="text" name="state" style="width:45px"  /></td>
+            </tr>
+            <tr>
+                <th style="text-align:right">Zip/Postal Code</th>
+                <td colspan="3" style="padding-left:2px"><input type="text" name="code" value="9325" /></td>
+            </tr>
+            <tr>
+                <th style="text-align:right">Country</th>
+                <td colspan="3" style="padding-left:2px">
+                    <select name="country" style="width:60%">
+                        <option>Bulgaria</option>
+                        <option>USA</option>
+                        <option>Viet Nam</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th style="text-align:right">Phone (country code, area code, number)</th>
+                <td colspan="3">(+ <input type="text" value="+359" style="width:65px" /> ) <input type="text" value="88" style="width:65px" /> - <input type="text" value="8334343" style="width:110px"/></td>
+            </tr>
+            <tr>
+                <th style="text-align:right">Email</th>
+                <td colspan="3" style="padding-left:2px"><input type="text" name="email" value="nakov@kaspichan.org" style="width:85%"/></td>
+            </tr>
+            <tr>
+                <th style="text-align:right">Birth date</th>
+                <td colspan="3" style="padding-left:2px">Month <input type="text" name="month" value="06"style="width:30px" /> Day <input type="text" name="day" value="14" style="width:30px"/> Year (4 digit)<input type="text" name="year" value="1980"style="width:50px" /></td>
+            </tr>
+            <tr>
+                <th style="text-align:right">Gender</th>
+                <td colspan="3" style="padding-left:2px">
+                    <select>
+                        <option>Male</option>
+                        <option>Female</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th style="text-align:right">Starting date</th>
+                <td colspan="3"><input type="radio" name="time" value="spring2006" checked />Spring 2006 &ensp;<input type="radio" name="time" value="summer2006" />Summer 2006</td>
+            </tr>
+            <tr>
+                <th style="text-align:right">Comments/Questions</th>
+                <td colspan="3" style="padding-left:2px">
+                    <textarea name="question" rows="5" cols="40">Please send me more information 
+about the logging.
+                    </textarea>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" style="background-color:skyblue; text-align:center"><input type="button"name="submit" value="Submit"/><input type="button" name="clear" value="Clear This Form"/></td>
+            </tr>
+        </table>
+    </form>
+
+</body>
+</html>

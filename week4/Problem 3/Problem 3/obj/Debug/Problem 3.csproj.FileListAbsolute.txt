@@ -1,0 +1,9 @@
+E:\dowload\lap trinh web\Problem 3\Problem 3\bin\Problem 3.dll.config
+E:\dowload\lap trinh web\Problem 3\Problem 3\bin\Problem 3.dll
+E:\dowload\lap trinh web\Problem 3\Problem 3\bin\Problem 3.pdb
+E:\dowload\lap trinh web\Problem 3\Problem 3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\dowload\lap trinh web\Problem 3\Problem 3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\dowload\lap trinh web\Problem 3\Problem 3\obj\Debug\Problem 3.csproj.CoreCompileInputs.cache
+E:\dowload\lap trinh web\Problem 3\Problem 3\obj\Debug\Problem 3.dll
+E:\dowload\lap trinh web\Problem 3\Problem 3\obj\Debug\Problem 3.pdb
+E:\dowload\lap trinh web\Problem 3\Problem 3\obj\Debug\Problem 3.csprojResolveAssemblyReference.cache

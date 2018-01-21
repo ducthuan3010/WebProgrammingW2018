@@ -1,0 +1,9 @@
+E:\dowload\lap trinh web\Refactoring\Refactoring\bin\Refactoring.dll.config
+E:\dowload\lap trinh web\Refactoring\Refactoring\bin\Refactoring.dll
+E:\dowload\lap trinh web\Refactoring\Refactoring\bin\Refactoring.pdb
+E:\dowload\lap trinh web\Refactoring\Refactoring\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\dowload\lap trinh web\Refactoring\Refactoring\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\dowload\lap trinh web\Refactoring\Refactoring\obj\Debug\Refactoring.csprojResolveAssemblyReference.cache
+E:\dowload\lap trinh web\Refactoring\Refactoring\obj\Debug\Refactoring.csproj.CoreCompileInputs.cache
+E:\dowload\lap trinh web\Refactoring\Refactoring\obj\Debug\Refactoring.dll
+E:\dowload\lap trinh web\Refactoring\Refactoring\obj\Debug\Refactoring.pdb

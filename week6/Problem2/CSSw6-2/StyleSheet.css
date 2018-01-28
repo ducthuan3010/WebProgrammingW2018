@@ -1,0 +1,18 @@
+﻿body{
+    background-color:white;
+}
+table {
+    border-collapse: collapse; 
+}
+.td{
+    background-color:#52B506;
+}
+img{
+    width:20px;
+}
+table tr td{
+    padding: 5px;
+}
+.tr {
+    background-color: #ececd8;
+}

@@ -1,0 +1,30 @@
+﻿body {
+    background-color: #595959;
+}
+table tr th{
+    text-align:left;
+    color:lightgray;
+    font-style:italic;
+}
+table tr td h3{
+    color:lightslategrey;
+}
+.maula {
+    color: #d4d89e;
+}
+img{
+    width:15px;
+    padding-top:10px;
+}
+.alert{
+    color:red;
+}
+.content {
+    color: lightslategrey;
+}
+.stt {
+    color: #ed9a2f;
+}
+ table td{
+    padding-bottom:10px;
+}

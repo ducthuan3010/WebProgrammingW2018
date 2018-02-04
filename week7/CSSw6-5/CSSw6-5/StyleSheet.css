@@ -1,0 +1,60 @@
+﻿body {
+    height:1200px;
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0.3, #8F11F2),color-stop(1, #FFD3FF));
+}
+
+.gradient1 {
+    width: 100%;
+}
+.form{
+   width:873px;
+}
+.sizetb{
+    width:auto;
+}
+.inputtex{
+    border-radius:20px;
+}
+.buttonli{
+    text-align:left;
+}
+.tbborder{
+    border: 1px solid black;
+    border-radius:15px;
+    padding-right:500px;
+}
+.pub{
+    text-align:right;
+}
+.tbbor {
+    border: 1px solid black;
+    border-radius: 15px;
+    padding:10px;
+    
+}
+.tex {
+    color: #BBBBBB;
+}
+.padtr{
+    padding-top:20px;
+}
+.mabotr{
+    margin-bottom:20px;
+}
+.widgettb{
+    border-radius:5px;
+    border:1px solid black;
+}
+.texfo{
+    text-align:center;
+
+}
+.divleft{
+    float:left;
+}
+.divright{
+    float:right;
+}
+
+
+

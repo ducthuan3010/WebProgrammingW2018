@@ -1,0 +1,631 @@
+﻿a {
+    text-decoration: none !important
+}
+
+.containera {
+    margin: 0;
+    margin-top: 10px;
+    margin: 0px 53px;
+    display: flex;
+}
+
+.row {
+    display: flex;
+}
+
+.homebanner {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    padding-left: 0px;
+}
+
+.miniItem {
+    width: 206px;
+    height: 181px
+}
+
+.arow {
+    display: flex;
+}
+
+.sidebar {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0px;
+}
+
+    .sidebar ul {
+        border: solid 1px #E1e1e1;
+        border-radius: 5px;
+        list-style-type: none;
+        padding: 0px;
+    }
+
+        .sidebar ul li {
+            display: flex;
+            align-items: center;
+            width: 242px;
+            height: 36.06px;
+        }
+
+.ul-sidebar li:hover {
+    background: #189eff;
+    border-color: #189eff;
+    color: #fff;
+    z-index: 2;
+}
+
+.sidebar ul li span {
+    font-size: 13px;
+}
+
+.icon-wrap {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-book {
+    background-image: url(../sprite.png);
+    background-position: -297px -74px;
+    width: 16px;
+    height: 18px;
+}
+
+.menu-bottle {
+    background-image: url(../sprite.png);
+    background-position: -297px -225px;
+    width: 10px;
+    height: 21px;
+}
+
+.menu-sprayer {
+    background-image: url(../sprite.png);
+    background-position: -297px -175px;
+    width: 12px;
+    height: 21px;
+}
+
+.menu-lipsticks {
+    background-image: url(../sprite.png);
+    background-position: -146px -263px;
+    width: 19px;
+    height: 20px;
+}
+
+.menu-tshirt {
+    background-image: url(../sprite.png);
+    background-position: -165px -263px;
+    width: 21px;
+    height: 18px;
+}
+
+.menu-pan {
+    background-image: url(../sprite.png);
+    background-position: -191px -128px;
+    width: 24px;
+    height: 14px;
+}
+
+.menu-electronic {
+    background-image: url(../sprite.png);
+    background-position: -297px -126px;
+    width: 15px;
+    height: 18px;
+}
+
+.menu-tv {
+    background-image: url(../sprite.png);
+    background-position: -297px -196px;
+    width: 18px;
+    height: 14px;
+}
+
+.menu-cellphone {
+    background-image: url(../sprite.png);
+    background-position: -152px -99px;
+    width: 11px;
+    height: 18px;
+}
+
+.menu-camera {
+    background-image: url(../sprite.png);
+    background-position: -297px -144px;
+    width: 18px;
+    height: 15px;
+}
+
+.menu-headphone {
+    background-image: url(../sprite.png);
+    background-position: -297px -92px;
+    width: 16px;
+    height: 17px;
+}
+
+.menu-laptop {
+    background-image: url(../sprite.png);
+    background-position: -215px -128px;
+    width: 21px;
+    height: 14px;
+}
+
+.menu-sport {
+    background-image: url(../sprite.png);
+    background-position: -297px -57px;
+    width: 17px;
+    height: 17px;
+}
+
+.menu-bike {
+    background-image: url(../sprite.png);
+    background-position: -86px -178px;
+    width: 24px;
+    height: 24px;
+}
+
+.menu-voucher {
+    background-image: url(../sprite.png);
+    background-position: -158px -178px;
+    width: 24px;
+    height: 24px;
+}
+
+.left {
+    width: 584px;
+}
+
+
+
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.nav-sub {
+    width: 998px;
+    height: 543px;
+    padding: 14px 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ddd #ddd #ddd #e1e1e1;
+    position: absolute;
+    top: 222px;
+    bottom: -1px;
+    left: 22%;
+    background: #fff;
+    margin-left: 0;
+    display: none;
+    border-radius: 0 3px 3px 0;
+    box-shadow: -2px 0 8px 0 rgba(0, 0, 0, .06);
+    z-index: 1;
+}
+
+.sidebar .ul-sidebar .nav-sub ul {
+    border: none;
+}
+
+.nav-sub > ul {
+    padding-left: 0px;
+}
+
+    .nav-sub > ul li {
+        float: left;
+        width: 25%;
+        display: block;
+    }
+
+.sidebar .ul-sidebar .nav-sub ul li:hover {
+    background: white;
+    border-color: white;
+}
+
+.nav-sub-list-box {
+    display: block;
+    border: none;
+}
+
+    .nav-sub-list-box > span {
+        display: block;
+        color: #444;
+        line-height: 20px;
+        font-size: 14px;
+        margin-right: 0;
+        letter-spacing: .1px;
+        font-weight: 400;
+    }
+
+    .nav-sub-list-box a {
+        text-decoration: none;
+        display: block;
+        color: #444;
+        line-height: 20px;
+        font-size: 12px;
+        margin-right: 0;
+        letter-spacing: .1px;
+        font-weight: 400;
+    }
+
+        .nav-sub-list-box a:hover {
+            color: blue;
+            text-decoration: none;
+        }
+
+    .nav-sub-list-box > span.blod {
+        font-weight: bold;
+    }
+
+    .nav-sub-list-box img {
+        width: auto;
+        min-width: 198px;
+        border-radius: 4px;
+    }
+
+.book:hover .nav-sub {
+    display: block;
+}
+
+.bottle:hover .nav-sub {
+    display: block;
+}
+
+.pad {
+    padding-top: 10px;
+}
+
+.sprayer:hover .nav-sub {
+    display: block;
+}
+
+.sprayer:hover .nav-sub {
+    display: block;
+}
+
+.lipsticks:hover .nav-sub {
+    display: block;
+}
+
+.lipsticks:hover .nav-sub {
+    display: block;
+}
+
+.tshirt:hover .nav-sub {
+    display: block;
+}
+
+.tshirt:hover .nav-sub {
+    display: block;
+}
+
+.pan:hover .nav-sub {
+    display: block;
+}
+
+.pan:hover .nav-sub {
+    display: block;
+}
+
+.electronic:hover .nav-sub {
+    display: block;
+}
+
+.electronic:hover .nav-sub {
+    display: block;
+}
+
+.tv:hover .nav-sub {
+    display: block;
+}
+
+.tv:hover .nav-sub {
+    display: block;
+}
+
+.cellphone:hover .nav-sub {
+    display: block;
+}
+
+.cellphone:hover .nav-sub {
+    display: block;
+}
+
+.camera:hover .nav-sub {
+    display: block;
+}
+
+.camera:hover .nav-sub {
+    display: block;
+}
+
+.headphone:hover .nav-sub {
+    display: block;
+}
+
+.headphone:hover .nav-sub {
+    display: block;
+}
+
+.laptop:hover .nav-sub {
+    display: block;
+}
+
+.laptop:hover .nav-sub {
+    display: block;
+}
+
+.sport:hover .nav-sub {
+    display: block;
+}
+
+.sport:hover .nav-sub {
+    display: block;
+}
+
+.bike:hover .nav-sub {
+    display: block;
+}
+
+.bike:hover .nav-sub {
+    display: block;
+}
+
+.voucher:hover .nav-sub {
+    display: block;
+}
+
+.voucher:hover .nav-sub {
+    display: block;
+}
+
+.nav-sub-bh {
+    display: none;
+    position: absolute;
+    top: 28px;
+    color: #4a4a4a;
+    width: 508px;
+    height: 354px;
+    background: url(bitmap.png) 314px bottom no-repeat #fff;
+    right: 0;
+    /*-webkit-box-shadow: 0 4px 12px 0 rgba(0,0,0,.28);*/
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,.28);
+    border-radius: 0 0 4px 4px;
+    padding: 0 20px 25px;
+    z-index: 4;
+    background-size: 173px;
+}
+
+.hoverbh:hover .nav-sub-bh {
+    display: block;
+}
+
+.footer-adwords-seo {
+    background: #f7f7f7;
+    padding: 40px 40px;
+    font-size: x-small;
+}
+
+    .footer-adwords-seo a {
+        text-decoration: none;
+    }
+
+.footer-cpy-right {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 40px;
+    font-size: small;
+    height: 100px;
+}
+
+.font {
+    font-size: x-small;
+}
+
+.bit {
+    color: blue;
+}
+
+.pad-right {
+    padding-right: 20px;
+}
+
+.icon-hot-deal {
+    background-image: url(sprite.png);
+    background-position: -163px -80px;
+    width: 48px;
+    height: 48px;
+}
+
+.title {
+    color: #ff3d00;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.text {
+    font-size: 13px;
+    margin-top: 3px;
+    color: #4a4a4a;
+}
+
+.hot-deal {
+    height: 75px;
+    margin-top: 20px;
+    align-items: center;
+    border: solid 1px #f4f4f4;
+    border-radius: 5px 5px 0 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.side-bar {
+    width: 248px;
+    padding-top: 10px;
+    border: solid 1px #f4f4f4;
+    border-top: none;
+}
+
+.product-listing {
+    padding-top: 20px;
+    width: 995px;
+    border: solid 1px #f4f4f4;
+    border-top: none;
+    border-left: none;
+}
+
+.item {
+    float: left;
+    width: 25%;
+    height: 370px;
+    display: block;
+}
+
+
+
+.img {
+    width: 210px;
+    height: 220px;
+    position: relative;
+}
+
+.div {
+    width: 208px;
+    height: 200px;
+}
+
+.div1 {
+    margin-top: 20px;
+    padding-left: 10px;
+    width: 208px;
+    height: 40px;
+}
+
+.saleoff {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url(../img/deal/deal-badge@2x.png);
+    background-size: contain;
+    padding: 0;
+    line-height: 40px;
+    font-weight: 300;
+    font-style: italic;
+    z-index: 1;
+}
+
+.pricesale {
+    font-size: 15px;
+    color: #242424;
+    font-weight: 500;
+    padding: 0;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.normalprice {
+    font-size: 11px;
+    color: #a2a2a2;
+    text-decoration: line-through;
+    text-align: left;
+    font-weight: 300;
+    margin-left: 8px;
+}
+
+.processbar {
+    margin-left: 10px;
+    height: 4px;
+    display: block;
+    width: 90%;
+    background: #e0e0e0;
+    overflow: hidden;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+
+.processdiv {
+    margin-top: 11px;
+    font-weight: 300;
+    min-height: 22px;
+}
+
+.processbar div {
+    background: #ff424e;
+    height: 100%;
+    border-radius: 4px;
+}
+
+.go {
+    font-size: 9px;
+    /*display: -webkit-box;
+    display: -ms-flexbox;*/
+    display: flex;
+    white-space: nowrap;
+    font-weight: 400;
+}
+
+.dealpercent {
+    padding-left: 10px;
+    font-size: x-small;
+    color: black;
+}
+
+.brage {
+    float: left;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url(brage.png);
+    background-size: contain;
+    padding: 0;
+    line-height: 40px;
+    font-weight: 300;
+    font-style: italic;
+    z-index: 1;
+}
+
+.time {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.res {
+    float: right;
+    background-image: url(sprite.png);
+    background-position: -62px -178px;
+    width: 24px;
+    height: 24px;
+}
+
+.time-end {
+    color: red;
+}
+
+.star-rating {
+    line-height: 32px;
+    font-size: 1.25em;
+}
+
+    .star-rating .fa-star {
+        color: yellow;
+    }
+
+    .star-rating .graystar {
+        color: gray;
+    }
+
+.bct {
+    background: url(sprite.png);
+    background-position: 0 -99px;
+    width: 120px;
+    height: 46px;
+}
